@@ -1,4 +1,4 @@
-# Anthony Ferrara's Resume
+# William Ng's Resume
 
 ## How to find me
 
