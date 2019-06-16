@@ -2,64 +2,45 @@
 
 ## How to find me
 
-* Email: ircmaxell@php.net
-* Personal Blog: [blog.ircmaxell.com](https://blog.ircmaxell.com)
-* Twitter: [@ircmaxell](https://www.twitter.com/ircmaxell)
-* Github: [ircmaxell](https://www.github.com/ircmaxell)
-* YouTube: [ircmaxell](https://www.youtube.com/user/ircmaxell)
+* Email: william_wu_biz@gmx.com
+* Personal Blog: Under construction.
+* Twitter: 
+* Github: [typelogical](https://www.github.com/typelogical)
+* YouTube:
 * IRC: [`ircmaxell` on Freenode](irc://freenode/ircmaxell)
-* LinkedIn: [ircmaxell](https://linkedin.com/in/ircmaxell)
-
-## Job Titles
-
- * Chief Technology Officer
- * Vice President of Engineering
- * Director of Engineering
- * Director of Developer Relations
-
-## Responsibilities
- 
- * Management of developers
- * Team building and hiring
- * Agile development
- * Developer **education**
- * Interfacing with remote and foreign developers
- * REST API design
- * Technical architecture
- * Communication with business stakeholders
- * Transition to DevOps
- * 12 Factor App methodology
- * Security and Compliance (including GDPR)
- * Web application security
+* LinkedIn: [ircmaxell](https://www.linkedin.com/in/william-ng-9b8a0472/)
 
 ## Experience
 
 Hands-on experience with:
 
- * Programming Languages
-    * PHP
-    * Ruby
-    * C
-    * Python
-    * JavaScript
-    * Go
-    * Java
- * Databases and Data Tools
-    * Redis
-    * Memcached
-    * Pentaho
-    * PostgreSQL
+ * Languages
+    * C/C++ (Proficient)
+    * HTML/CSS (Fluent)
+    * Java (Fluent)
+    * JavaScript (Fluent)
+    * SQL (Proficient)
+    
+ * Technologies
+    * AngularJS/Angular
+    * Bootstrarp
+    * JEE
+    * JQuery
+    * JUnit
+    * Struts2
+    * Mockito
+    * MVC
+    * REST APIs
+    * REST Services
     * MySQL
- * Cloud and Infrastructure Providers
+    * Selenium
+    
+ * Miscallaneous
     * Amazon Web Services
-    * Google Cloud Platform
-    * Heroku
- * Other Services:
-    * DataDog
-    * Sumologic
-    * Docker
-    * Terraform
-    * Google Apps
+    * Eclipse IDE
+    * Maven
+    * NetBeans IDE
+    
 
 ## Work History
 
